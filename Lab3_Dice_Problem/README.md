@@ -7,3 +7,5 @@ This lab simulates rolling a 6-sided dice 1,000 times.
 
 
 File: 'dice_distributon.py'
+
+UPDATE : *This is Rinad updating the file*
