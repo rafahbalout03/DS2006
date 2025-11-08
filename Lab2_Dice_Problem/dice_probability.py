@@ -7,7 +7,7 @@ def calculate_probability(target_number, total_sides=6):
     
 def main():
     sides = 6
-    target = 6
+    target = int(input("Enter a target number to calculate its probability (1-6): "))
     prob = calculate_probability(target, sides) 
     print (f"Probability of rolling a {target} on a {sides}-sided dice: {prob:.2f}")
     
